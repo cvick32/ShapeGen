@@ -1,18 +1,20 @@
 # ShapeGen
 Racket interactive programs for making fun shapes.
 
-BlackBackground: 
+BlackBackground (IN PROGRESS): Will eventually render moving colored circleson a black background 
 
-Lab12:
+Lab12: Creates animated circles wherever the mouse moves. Circles are random sizes and colors. 
 
-Lab12AnimatedStack:
+Lab12AnimatedStack: Very trippy random mix of changing shapes stacked on top of each other, getting smaller and smaller
+with more mouse clicks.
 
-Lab12InlaidCircles:
+Lab12InlaidCircles (IN PROGRESS): Should have inlaid circles getting smaller and smaller. Right now it has randomly
+alternating black and white squares that get smaller the more you click. 
 
-Lab12RandomVariant:
+Lab12RandomVariant: Creates circles of random size and color that move all over the screen.
 
-Lab12Star:
+Lab12Star: 'Simulates' the night sky with stars that move.
 
-Lab12StarStack:
+Lab12SquareAndCircle: Trippy, hypnotic stack of random squares and circles that get smaller.
 
 
