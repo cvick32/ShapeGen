@@ -1,5 +1,13 @@
-# ShapeGen
-Racket interactive programs for making fun shapes.
+### ShapeGen
+## Racket interactive programs for making fun shapes.
+# How To Use:
+
+1) Download DrRacket. 
+2) Clone this repo to your machine.
+3) Open DrRacket and choose Language > Add Teachpack.
+4) Using the method in step 3 add both universe.rkt and 2htdp/image.rkt 
+5) Open a file in the repo and press Run. 
+6) Enjoy!
 
 BlackBackground (IN PROGRESS): Will eventually render moving colored circleson a black background 
 
