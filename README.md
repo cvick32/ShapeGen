@@ -1,6 +1,6 @@
-### ShapeGen
+# ShapeGen
 ## Racket interactive programs for making fun shapes.
-# How To Use:
+### How To Use:
 
 1) Download DrRacket. 
 2) Clone this repo to your machine.
