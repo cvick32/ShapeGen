@@ -9,7 +9,7 @@
 5) Open a file in the repo and press Run. 
 6) Enjoy!
 
-BlackBackground (IN PROGRESS): Will eventually render moving colored circleson a black background 
+BlackBackground (IN PROGRESS): Will eventually render moving colored circles on a black background 
 
 Lab12: Creates animated circles wherever the mouse moves. Circles are random sizes and colors. 
 
